@@ -1,0 +1,35 @@
+* {
+    color:#b0aaaa;
+}
+
+
+#nav {
+    margin-bottom: 0;
+}
+
+
+#inicio {
+    background-image: url(../img/DSC00576.png);
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 600px;
+    
+}
+
+
+#inicio h1 {
+    margin-top: 5%; 
+}
+#galeria {
+    margin-left: 8%;
+}
+
+#footer {
+    background-color: black;
+    height: 30px;
+}
+
+.modal.and.carousel {
+  position: fixed; 
+}
