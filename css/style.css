@@ -20,9 +20,12 @@
 }
 
 
-#inicio h1 {
-    margin-top: 3%; 
+#inicio #titulo {
+    margin-top: 3%;
+    font-family: 'Molle', cursive;
+    color: #6c4637;
 }
+
 #galeria article {
     margin-left:5%;
     margin-right:5%;
@@ -49,4 +52,8 @@
 
 .modal.and.carousel {
   position: fixed; 
+}
+
+#inicio p, #inicio h2 { 
+    visibility: hidden;
 }
