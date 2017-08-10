@@ -54,6 +54,11 @@
   position: fixed; 
 }
 
-#inicio p, #inicio h2 { 
-    visibility: hidden;
-}
+@media (max-width: 700px) {
+  #inicio {
+    background-image: url(../img/portadaMobile.png) ;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+        }
+    }
