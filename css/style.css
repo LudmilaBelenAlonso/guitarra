@@ -56,9 +56,15 @@
 
 @media (max-width: 700px) {
   #inicio {
+<<<<<<< HEAD
     background-image: url(../img/portada.png) ;
     background-position: left left;
     background-repeat: no-repeat;
     background-size: cover;
+=======
+    background-image: url(../img/portadaMobile.png) ;
+    background-position: center bottom;
+    
+>>>>>>> origin/master
         }
     }
